@@ -1,0 +1,21 @@
+{
+  "name": "script-error",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "nodemon server.js",
+    "cdn": "nodemon cdn.js"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "cors": "^2.8.4",
+    "ejs": "^2.5.7",
+    "express": "^4.15.4",
+    "moment": "^2.18.1"
+  },
+  "devDependencies": {
+    "nodemon": "^1.11.0"
+  }
+}
