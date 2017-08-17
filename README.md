@@ -1,4 +1,4 @@
-# The 'Script error'
+# The `Script error`
 
 > 关于静态资源跨域导致的 js 异常捕捉上报失败的问题
 
